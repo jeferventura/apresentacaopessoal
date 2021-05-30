@@ -1,1 +1,33 @@
+body, html {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  width: 100%; }
 
+.wraper {
+  height: 100%;
+  background-color: #fff;
+  width: 100%; }
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
+
+.topo {
+  height: 120px;
+  width: 100%;
+  background-color: darkgoldenrod; }
+  .topo a {
+    color: royalblue;
+    margin: 10px;
+    background-color: #fff;
+    width: 150px;
+    height: 30px;
+    border: 1px solid #c000; }
+    .topo a:hover {
+      background-color: salmon; }
+
+/*# sourceMappingURL=style.css.map */
